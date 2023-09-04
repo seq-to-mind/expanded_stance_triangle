@@ -3,15 +3,15 @@
 * This repo and the enriched annotation are only for research use. Please cite the papers if they are helpful. <br>
 
 ## Data Format
-+ The original SemEval16 Tweet Stance Detection (Task A) data is located at `data/SemEval16_Tweet_Stance_Detection/Original_Annotation`.
-+ The enriched annotation of the SemEval16 Tweet Stance Detection (Task A) is located at `data/SemEval16_Tweet_Stance_Detection/Enriched_Annotation`.
-Each row in the data file is one sample. For instance, here is one row:<br>
++ The original SemEval16 Tweet Stance Detection (Task A) data is located at `data/SemEval16_Tweet_Stance_Detection/Original_Annotation`.<br>
++ The enriched annotation of the SemEval16 Tweet Stance Detection (Task A) is located at `data/SemEval16_Tweet_Stance_Detection/Enriched_Annotation`.<br>
++ Each row in the data file is one sample. For instance, here is one row:<br>
 `1 <segmenter>  Climate Change is a Real Concern <s> We blame cities for the majority of CO2 emissions without acknowledging their vulnerability to #CFCC15 #journey2015 #S2228`<br>
 + `<segmenter>` is the delimiter between the stance label and model input.<br>
 + The stance label value 1 denotes '__Favor__', 0 denotes '__Against__', and 2 denotes '__None__'.<br>
 
 ## Citation
-If the work is helpful, please cite our papers in your publications, reports, slides, and thesis.<br>
+If the work is helpful, please cite our papers in your reports, slides, and papers.<br>
 
 ```
 @inproceedings{liu-etal-2023-guiding,
