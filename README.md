@@ -1,5 +1,5 @@
 ## Introduction
-* One implementation of the paper __Guiding Computational Stance Detection with Expanded Stance Triangle Framework__ in ACL2023 <br>
+* One implementation of the paper __Guiding Computational Stance Detection with Expanded Stance Triangle Framework__ in ACL 2023. <br>
 * This repo and the enriched annotation are only for research use. Please cite the papers if they are helpful. <br>
 
 ## Data Format
